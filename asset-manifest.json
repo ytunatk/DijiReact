@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tunadcdx.github.io/dijicase/static/css/main.88af02e2.css",
+    "main.js": "/tunadcdx.github.io/dijicase/static/js/main.0bcc9208.js",
+    "static/js/787.c63e3264.chunk.js": "/tunadcdx.github.io/dijicase/static/js/787.c63e3264.chunk.js",
+    "index.html": "/tunadcdx.github.io/dijicase/index.html",
+    "main.88af02e2.css.map": "/tunadcdx.github.io/dijicase/static/css/main.88af02e2.css.map",
+    "main.0bcc9208.js.map": "/tunadcdx.github.io/dijicase/static/js/main.0bcc9208.js.map",
+    "787.c63e3264.chunk.js.map": "/tunadcdx.github.io/dijicase/static/js/787.c63e3264.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88af02e2.css",
+    "static/js/main.0bcc9208.js"
+  ]
+}
